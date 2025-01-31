@@ -18,7 +18,7 @@ Before starting the project, ensure the following requirements are installed:
 ### Requirements
 
 - SFML library
-- A development environment (e.g., GCC or Clang)
+- A development environment 
 
 ### Installation
 
